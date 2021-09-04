@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="skip">Skip</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="cafe_house">Cafe house</string>
+</resources>
